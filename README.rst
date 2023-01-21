@@ -2,6 +2,7 @@ pgbackup
 ========
 
 CLI for backup up remote Postgres SQL database locally or to AWS s3.
+Module for backup to AWS S3 in progress.
 
 Preparing for Development
 -------------------------
